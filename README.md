@@ -42,7 +42,7 @@ This project includes:
 ## Usage
 Run the following command to train and evaluate the model:
 ```bash
-python main.py
+python nlp_test1.py
 ```
 
 ### Sample Output:
